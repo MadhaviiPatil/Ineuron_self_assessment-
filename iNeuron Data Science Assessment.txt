@@ -1,0 +1,33 @@
+﻿iNeuron Data Science Assessment
+
+
+* Python:
+ Question: 2
+
+
+2.  Write a program that takes a string as input, and counts the frequency of each word in the string, there might  be repeated characters in the string. Your task is to find the highest frequency and returns the length of the  highest-frequency word. 
+
+
+pythoncode.ipynb
+
+
+
+
+* Machine learning 
+
+
+
+
+Question.2 
+1. Imagine you have a dataset where you have different Instagram features like u sername , Caption , Hashtag , Followers , Time_Since_posted , and likes , now your task is to predict the number of likes and Time Since posted and the rest of the features are your input features. Now you have to build a model which can predict the number of likes and Time Since posted.
+
+
+ML.ipynb
+
+
+
+
+           Question: 2
+2.
+1. Explain how you can implement ML in a real-world application.
+               At present, we are so dependent on the advancing technologies that make our lives so efficient and easy that we almost cannot spend a day without them. Products based on machine learning have become so common nowadays as data generated can be used to validate these machine learning algorithms and is usually enough to predict what humans might think next. Data is the mightiest sword anyone can have, as we can bring and analyze all the possible and useful insights from it and then train a model and make predictions based on it. Machine learning has made it possible to use automatic cars, Google Maps, banking chores, voice recognition systems, and social media and it is also applied in healthcare and diagnosis. We are surrounded by ML applications. We can extract or get the data to our relevant field from reliable resources, then we can process and analyze the data and draw different insights from it. Then we can apply different algorithms to the training dataset and this dataset is used to train the data so that it can easily make further
